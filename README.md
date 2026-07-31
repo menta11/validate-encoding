@@ -57,4 +57,4 @@ Windows / macOS / Linux 均可。Node 的 UTF-8 解码器对无效字节的处�
 
 ## License
 
-MIT
+Released under the [MIT License](LICENSE) — © 2026 mengtao Liu
